@@ -1,0 +1,13 @@
+Player: 
+<object id="mpl" width="950" height="0" type="application/x-shockwave-flash" name="mpl" data="/player.swf">
+<param name="allowfullscreen" value="false"/>
+<param name="allowscriptaccess" value="alway s"/>
+<param name="bgcolor" value="#ffffff"/>
+<param name="flashvars" value="file=/assets/sets/EM/Paul van Dyk Guestmix.xml&streamer=rtmp://mugasha.com:1935/simplevideostreaming&playlist=right&autostart=false&item=0&shuffle=false"/>
+</object>
+
+Streamer: rtmp://mugasha.com:1935/simplevideostreaming
+Playlist: /assets/sets...xml
+
+Example: 
+rtmp://mugasha.com:1935/simplevideostreaming/mp3:EM-2009-09-26.mp3
