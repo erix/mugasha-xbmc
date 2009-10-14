@@ -7,7 +7,10 @@ Player:
 </object>
 
 Streamer: rtmp://mugasha.com:1935/simplevideostreaming
-Playlist: /assets/sets...xml
+Playlist: /assets/sets/EM/July%2019.xml
 
 Example: 
 rtmp://mugasha.com:1935/simplevideostreaming/mp3:EM-2009-09-26.mp3
+
+Track info:
+http://mugasha.com/assets/sets/EM/July%2019.json
